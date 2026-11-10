@@ -13,7 +13,3 @@ def is_missing(x):
     if x is None:
         return True
     return False
-
-
-def broken_total():
-    return missing_total
